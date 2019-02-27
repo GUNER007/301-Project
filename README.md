@@ -1,7 +1,7 @@
 # 301-Project
 The purpose of this page is to outline the purpose and process of Paulina Gomez and Christopher Hassett's MAE 301 project.
 
-During this project we will test two different types of woods with four different types of adhesive.
+During this project we will test two different types of woods with four different types of adhesive in order to determine which combination of wood and glue would provide the sturdiest building material.
 We will be comparing our data with that of this report (https://woodgears.ca/joint_strength/glue.html) and this report (https://www.fpl.fs.fed.us/documnts/fplgtr/fplgtr113/ch09.pdf).
 
 The first report has the different types of adhesive and the amount of pound-force required to either break the adhesive or the wood.
